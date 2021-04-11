@@ -1,7 +1,7 @@
 LOLCODE Reference App
 -----------------------
 
-A contrived example of a program using an obscure language.
+A contrived example of a program that uses an obscure language.
 
 ## Building
 ```
